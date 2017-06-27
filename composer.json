@@ -1,0 +1,5 @@
+{
+    "request": {
+        "silex/silex": "~1.1"
+    }
+}
