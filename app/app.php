@@ -35,7 +35,7 @@
         "
         ;
     });
-
+    $output = "";
 
     return $app;
 ?>
